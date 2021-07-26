@@ -132,13 +132,15 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+Thanks to:
+https://www.studytonight.com/network-programming-in-python
 
 <!-- CONTACT -->
 ## Contact
 https://www.linkedin.com/in/johnmatthewcarbon/
 
 ## Improvements
-Maybe add more online security tools.
+Maybe Scale it to support large infrastractures
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
